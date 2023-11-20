@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p align="left">Hello World!!</p>
-
 - 😄 My name is Muhammad Rayyan Abhad
 - 🔭 I’m currently working on one of Private Bank in Indonesia
 - 🌱 I’m currently learning Java advanced
